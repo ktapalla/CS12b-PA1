@@ -2,6 +2,8 @@
 
 The code provided in this repository contains the solutions to PA1 for COSI 12b - Advanced Programming Techniques in Java. The 5 different problems will be described below, as well as the instructions for how to install and run the code. Each problem is solved within its own Java file/class. 
 
+Note: This assignment was done for a class, and we were limited to using only Java features we had covered in class thus far. This may make the assignment solutions more complicated/longer than they would have to be. 
+
 
 ## Installation and Execution 
 
