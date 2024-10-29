@@ -5,7 +5,7 @@ The code provided in this repository contains the solutions to PA1 for COSI 12b 
 
 ## Installation and Execution 
 
-Get the files from GitHub and in your terminal/console move into the folder of the project. To compile all of the java files for the entire assignment, run the following line: 
+Get the files from GitHub and in your terminal/console move into the src folder of the project. To compile all of the java files for the entire assignment, run the following line: 
 
 ``` javac *.java ```
 
